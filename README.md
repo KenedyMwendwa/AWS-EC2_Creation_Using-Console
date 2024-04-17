@@ -81,6 +81,7 @@ Enjoy working on your new virtual computer.
 
 ```bash
 ssh -i your-key.pem ec2-user@your-instance-public-ip
+````
 
 ### ⚙️ Connect with Me
 
