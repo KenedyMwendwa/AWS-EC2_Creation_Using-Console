@@ -8,7 +8,7 @@ Follow these steps to create your first EC2 instance in AWS:
 
 Go to the [AWS Management Console](https://aws.amazon.com/console/) and sign in to your AWS account.
 
-If you don't have an account, first proceed and create an account. [AWS Management Console](https://portal.aws.amazon.com/billing/signup/)
+If you don't have an account, first proceed and create an account. [Sign Up](https://aws.amazon.com/)
 
 ## Step 2: Navigate to EC2 Dashboard
 
