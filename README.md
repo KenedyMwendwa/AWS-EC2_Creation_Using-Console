@@ -26,7 +26,12 @@ Click on the "Launch Instance" button to begin the process of launching a new EC
 
 Select an Amazon Machine Image (AMI) from the available options. This is the operating system and software configuration for your instance.
 
-Here choose your preffered OS, Linux, Windows, MacOS or SUSE among others.
+Here choose your preffered OS Image:
+- Amazon Linux
+- Red Hat Linux
+- SUSE Linux
+- Ubuntu
+- Windows 
 
 ## Step 5: Choose Instance Type
 
