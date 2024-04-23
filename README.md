@@ -52,7 +52,7 @@ Add storage to your instance. You can specify the size and type of storage (e.g.
 For a free tier account AWS provides a maximum of 30 GiB, avoid exceeding this limit otherwise you will incurr some costs.
 
 Some Operating systems require larger storage compared to others, therefore opt for OS images taking lesser storage.
-![image](https://github.com/KenedyMwendwa/AWS-EC2_Creation_Using-Console/assets/40019735/e72249bf-d12c-4647-834e-4da7de0c60e8)
+
 
 
 ## Step 8: Add Tags (Optional)
